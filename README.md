@@ -8,5 +8,5 @@
 <a href="https://www.instagram.com/fmarga/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 📫 <a href="mailto:marga.fmartins@gmail.com">marga.fmartins@gmail.com</a>
 
-
-###### Thanks for visiting :girl:
+##### Feel free to follow me and watch me learning the coding lifestyle :fire:
+##### Thanks for visiting :girl:
