@@ -1,6 +1,6 @@
 # Hello, I'm Marga! :blush:
 
-:computer: I'm a front-end development student, and here you can find a little about what I'm studying and practicing <br><br>
+:computer: I'm a student of web development, and here you can find a little about what I'm studying and practicing <br><br>
 
 #### Where I feel confident in :heart_on_fire:
 Since I started my studies my focus were always in the basis, so I learned a lot of HTML, CSS, Git, Figma and JavaScript<br><br>
