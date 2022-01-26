@@ -7,7 +7,7 @@ Since I started my studies my focus were always in the basis, so I learned a lot
 
 
 #### Where is my focus on :star_struck: :zap:
-I am currently improving my skills in JavaScript, and my focus by now is to become fluent at it and start to learning some frameworks
+I am currently improving my skills in JavaScript, and my focus by now is to become fluent at it and start to learning some frameworks (just started React)
 
 
 
