@@ -1,5 +1,7 @@
 # Hello, I'm Marga! :blush:
 
+I am passionate about technology and trying to be the best developer I can
+
 :computer: Here I share my studies about JS
 
 
