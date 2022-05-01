@@ -2,7 +2,7 @@
 
 I am passionate about technology and trying to be the best developer I can
 
-:computer: Here I share my studies about JS
+:computer: Here I share my studies about JS and Ruby on Rails
 
 
 #### You can find me also at:
