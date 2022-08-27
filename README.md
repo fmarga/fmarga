@@ -1,8 +1,8 @@
 # Hello, I'm Marga! :blush:
 
-I am passionate about technology and trying to be the best developer I can
+I am passionate about technology and trying to learn all about software development I can
 
-:computer: Here I share my studies about JS and Ruby on Rails
+:computer: Here I share my studies (about JS and Ruby on Rails, mostly)
 
 You can find some of my notes [here](https://gist.github.com/fmarga) (portuguese). This is a gist of the contents I am currently studying
 
